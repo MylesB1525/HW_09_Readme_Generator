@@ -2,7 +2,7 @@
 
 ## Description
 
-A JavaScript based appliction that prompt a user through a series of questions to produce a README file for their projects.
+A JavaScript based appliction that prompts a user through a series of questions to produce a README file for their projects.
 
 ### Table of Contents
 
@@ -13,6 +13,8 @@ A JavaScript based appliction that prompt a user through a series of questions t
 To install the necessary dependencies for this project, use the command npm i.
 
 ## Usage
+
+**_ Need to still add Video showing that it works_**
 
 Install npm, and use node index.js to run in terminal
 
